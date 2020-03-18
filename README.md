@@ -1,2 +1,2 @@
-# ECSE444
+# Microprocessors
 Course Labs From Microprocessors
